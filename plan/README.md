@@ -29,7 +29,7 @@ _Please let us know why we should support this event._
 
 
 ## ⛳️ What help do you need with this event?
-_Tell us how GitHub or other Campus Experts can help with this event. Don't forget to complete the request form below._
+_Tell us how GitHub or other Campus Experts can help with this event. (Ex. Swags, People, prizes.)_
 
 ## :octocat: GitHub Student Pack Dedicated URL
 _When mentioning the Student Pack in an event, make sure to share your dedicated URL by event. This helps us better support events that are actively promoting The Pack :sparkles:._ 
